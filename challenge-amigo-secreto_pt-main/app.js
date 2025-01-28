@@ -1,1 +1,25 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
+//amigos e amigo sorteado
+ let amigo
+ let amigoSorteado
+
+
+
+
+//escolhendo amigo
+ function adicionarAmigo() {
+if (amigoEscolhido == amigo) {
+   console.log('botão clicado')
+   console.log(amigo)
+}
+}
+
+
+
+
+
+
+
+//sorteando
+function sortearAmigo() {
+
+ }
