@@ -29,7 +29,7 @@ function adicionarAmigo() {
 function organizarLista() {
    let lista = document.getElementById("listaAmigos");
    lista.innerHTML = listaDeAmigosEscolhidos;
-   }
+}
 
 //limpar campos
 function limparCampoDeNomes() {
