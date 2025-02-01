@@ -16,6 +16,7 @@ O projeto é um desafio que foi preparado pelo curso de Iniciante em Programaç�
 
 
 https://github.com/user-attachments/assets/cb8bc70f-6ab8-442f-8ce3-ff142de68f4d
+
 O vídeo a seguir é uma demonstração do funcionamento do jogo.
 
 
