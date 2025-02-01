@@ -48,7 +48,7 @@ function sortearAmigo() {
    let amigoSorteado = listaDeAmigosEscolhidos[(Math.random() * listaDeAmigosEscolhidos.length) | 0];
    if (listaDeAmigosEscolhidos == '') {
    exibirTextoNaTela('h2', 'Por favor, escolha alguns amigos antes de sortear.');
-   } else if (listaDeAmigosEscolhidos <= listaDeAmigosEscolhidos[0] ){
+   } else if (listaDeAmigosEscolhidos <= listaDeAmigosEscolhidos[0] ) {
    exibirTextoNaTela('h2', 'Por favor, escolha alguns amigos antes de sortear.');
    } else {
    console.log(amigoSorteado);
