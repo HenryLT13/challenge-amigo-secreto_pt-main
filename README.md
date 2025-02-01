@@ -1,7 +1,7 @@
 <h1 align="center"> Alura: Desafio do amigo secreto </h1>
 
 O projeto é um desafio que foi preparado pelo curso de Iniciante em Programação G8-ONE da Alura. O desafio consiste em por em prática o que aprendi no curso  para fazer um jogo que sorteia o nome de seus amigos.
-![proalura](https://github.com/user-attachments/assets/05e9b8c4-9f01-4619-85ac-4811770ce42a)
+![image](https://github.com/user-attachments/assets/9003ffad-665f-4887-bce4-249d3dd2aea8)
 
 1_ O que eu aprendi e coloquei em prática no desafio?
 
@@ -18,6 +18,8 @@ O projeto é um desafio que foi preparado pelo curso de Iniciante em Programaç�
 https://github.com/user-attachments/assets/cb8bc70f-6ab8-442f-8ce3-ff142de68f4d
 
 O vídeo a seguir é uma demonstração do funcionamento do jogo.
+
+
 
 
 
