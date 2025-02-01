@@ -13,3 +13,4 @@ O projeto é um desafio que foi preparado pelo curso de Iniciante em Programaç�
 * Utilizei um Array para criar uma lista na qual o projeto todo teve foco.
 
 
+<h2 aling="center"> ![2025-01-31 21-14-03](https://github.com/user-attachments/assets/d480964f-dccc-45d2-814f-93631ebf1d5a) </h2>
