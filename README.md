@@ -26,8 +26,8 @@ O vídeo a seguir é uma demonstração do funcionamento do jogo.
 
 <h1 align="center"> No que eu tive mais dificudade no projeto: </h1>
 
-* Tive muita dificuldade para passar os nomes escolhidos pelo jogador para a tela do jogo. Só consegui resolver o problema ao descobrir que no HTML existia o id "listaAmigos" para adicionar os amigos na tela, nisso eu consegui codificar para fazer os nomes irem para a tela do jogo;
-* Tive também dificuldades para sortear o nome pois não sorteava aleatoriamente. Resolvi esse problema utilizando o math. random e lenght para deixar o índice aleatório, resultando no sorteio aleatório dos nomes da lista pelo índice.
+* Tive muita dificuldade para passar os nomes escolhidos pelo jogador para a tela do jogo. Só consegui resolver o problema ao descobrir que no HTML existia o id "listaAmigos" para adicionar os amigos na tela, daí eu consegui codificar para fazer os nomes irem para a tela do jogo;
+* Tive também dificuldades para sortear o nome pois não sorteava aleatoriamente. Resolvi esse problema utilizando o math. random e length para deixar o índice aleatório, resultando no sorteio aleatório dos nomes da lista pelo índice.
 
 
 
