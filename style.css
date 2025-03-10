@@ -6,6 +6,7 @@
     --color-button-hover: #e55720;
     --color-text: #444444;
     --color-white: #FFFFFF;
+    --color-friends: #5CB338;
 }
 
 /* Estilos gerais */
@@ -132,6 +133,12 @@ ul {
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
+}
+
+.name-list {
+    text-align: center;
+    color: var(--color-friends);
+    
 }
 
 .result-list {
